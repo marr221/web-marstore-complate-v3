@@ -1,0 +1,6 @@
+{
+  "name": "MARSTORE - Marketplace Akun & Topup Game",
+  "description": "Platform jual beli akun game terpercaya dan layanan topup game instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
