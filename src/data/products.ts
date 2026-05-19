@@ -20,19 +20,19 @@ export interface Product {
 export const PRODUCTS: Product[] = [
   {
     id: 1,
-    title: 'Akun ML Skin Sultan!',
-    game: 'Mobile Legends',
-    price: 500000,
-    oldPrice: 650000,
+    title: 'Akun FreeFire Mureh Meriah!',
+    game: 'Free Fire',
+    price: 60000,
+    oldPrice: 150000,
     rating: 5,
     seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/KzVZt9N0/In-Collage-20260505-164403978.jpg',
+    image: 'https://i.ibb.co.com/yck5s9td/In-Collage-20260519-183143532.jpg',
     verified: true,
     specs: {
-      'Skin bagus' : ' Ruby aspirant, hayabusa 11.11, irithel ducati, karina kof, claude prime dan masih banyak lagi',
-      'Hero': '131/131',
-      'Emblem': 'Max All',
-      'Recall': 'tastas biru',
+      'Vault' : '190+',
+      'Evogun': 'AK47 LV 5',
+      'Shotgun 2': 'Mamba & Bunny',
+      'Prime': 'Prime 3',
     }
   },
 ];
