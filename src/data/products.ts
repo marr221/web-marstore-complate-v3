@@ -26,7 +26,7 @@ export const PRODUCTS: Product[] = [
     oldPrice: 150000,
     rating: 5,
     seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/yck5s9td/In-Collage-20260519-183143532.jpg',
+    image: 'https://i.ibb.co.com/Z1TgMVvr/In-Collage-20260519-184713284.jpg',
     verified: true,
     specs: {
       'Vault' : '190+',
