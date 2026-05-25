@@ -35,4 +35,18 @@ export const PRODUCTS: Product[] = [
       'Prime': 'Prime 3',
     }
   },
+  {
+    id: 2,
+    title: 'Akun Mobile Legend Sultan!!',
+    game: 'Mobile Legends',
+    price: 650000,
+    oldPrice: 1000000,
+    rating: 5,
+    seller: 'MARSTORE',
+    image: 'https://i.ibb.co.com/KxtF6YQd/In-Collage-20260525-064931468.jpg',
+    verified: true,
+    specs: {
+      'Kolektor' : 'Terhormat 5',
+    }
+  },
 ];
