@@ -20,7 +20,7 @@ export interface Product {
 export const PRODUCTS: Product[] = [
   {
     id: 1,
-    title: 'Akun FreeFire Mureh Meriah!',
+    title: 'Akun FreeFire Murah Meriah!',
     game: 'Free Fire',
     price: 60000,
     oldPrice: 150000,
@@ -39,14 +39,19 @@ export const PRODUCTS: Product[] = [
     id: 2,
     title: 'Akun Mobile Legend Sultan!!',
     game: 'Mobile Legends',
-    price: 650000,
+    price: 500000,
     oldPrice: 1000000,
     rating: 5,
     seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/KxtF6YQd/In-Collage-20260525-064931468.jpg',
+    image: 'https://i.ibb.co.com/1Gm47KYL/In-Collage-20260505-164403978.jpg',
     verified: true,
     specs: {
       'Kolektor' : 'Terhormat 5',
+      'Skin Bagus' : 'Hayabusa 11.11, Irithel Ducati, Ruby Aspirant, Claude Prime, Karina KOF',
+      'Luckybox' : 'Alice, Hayabusa, Odette, Lunox,',
+      'Collector' : 'Natalia',
+      'Login' : 'Moonton',
+      'Tambahan' : 'Akun sudah terjamin aman dan bergaransi 100% uang kembali jika terkena hackback!',
     }
   },
 ];
