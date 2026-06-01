@@ -40,6 +40,12 @@ export const LATEST_INFO = [
     title: "MAR STORE Info",
     content: "MAR STORE menyediakan banyak layanan, mulai dari Top-up game, rekber/mc, jual akun, beli akun, jasa membuat website, DLL",
   },
+  {
+    id: 1,
+    date: "1 Juni 2026",
+    title: "Info Dana Kaget!!",
+    content:"Ikuti saluran/chanel whatsapp MAR STORE agar mendapatkan DAGET SETIAP JUMAT!!",
+  },
 ];
 
 export { PRODUCTS };
