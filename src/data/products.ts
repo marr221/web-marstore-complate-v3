@@ -84,7 +84,7 @@ export const PRODUCTS: Product[] = [
     verified: true,
     specs: {
       'Rod' : 'Diamond Rod, Element Rod, Ghostfinn Rod, Ares Rod',
-      'Info' : 'Harga akun bisa dei nego!',
+      'Info' : 'Harga akun bisa di nego!',
     }
   },
   {
@@ -95,10 +95,11 @@ export const PRODUCTS: Product[] = [
     oldPrice: 50000,
     rating: 5,
     seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/HT1pc68v/In-Collage-20260602-181155124.jpg'
+    image: 'https://i.ibb.co.com/HT1pc68v/In-Collage-20260602-181155124.jpg',
     verified: true,
     specs: {
       'Info' : 'Untuk spesifikasi lengkap silahkan menghubungi MARSTORE',
+      'Info2' : 'Harga akun bisa di nego',
     }
   },
 ];
