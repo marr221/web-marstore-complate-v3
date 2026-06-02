@@ -91,14 +91,14 @@ export const PRODUCTS: Product[] = [
     id: 5,
     title: 'Akun Roblox GG',
     game: 'Roblox',
-    price 25000,
+    price : 25000,
     oldPrice: 50000,
     rating: 5,
     seller: 'MARSTORE',
     image: 'https://i.ibb.co.com/HT1pc68v/In-Collage-20260602-181155124.jpg'
-    varified: true,
+    verified: true,
     specs: {
-      'Untuk spesifikasi lengkap silahkan menghubungi MARSTORE',
+      'Info' : 'Untuk spesifikasi lengkap silahkan menghubungi MARSTORE',
     }
   },
 ];
