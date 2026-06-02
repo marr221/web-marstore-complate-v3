@@ -30,9 +30,10 @@ export const PRODUCTS: Product[] = [
     verified: true,
     specs: {
       'Vault' : '190+',
-      'Evogun': 'AK47 LV 5',
-      'Shotgun 2': 'Mamba & Bunny',
-      'Prime': 'Prime 3',
+      'Evogun' : 'AK47 LV 5',
+      'Shotgun 2' : 'Mamba & Bunny',
+      'Prime' : 'Prime 3',
+      'Info' : 'Harga akun bisa di nego',
     }
   },
   {
@@ -52,6 +53,7 @@ export const PRODUCTS: Product[] = [
       'Collector' : 'Natalia',
       'Login' : 'Moonton',
       'Tambahan' : 'Akun sudah terjamin aman dan bergaransi 100% uang kembali jika terkena hackback!',
+      'Info' : 'Harga akun bisa di nego!',
     }
   },
   {
@@ -64,5 +66,39 @@ export const PRODUCTS: Product[] = [
     seller: 'MARSTORE',
     image: 'https://i.ibb.co.com/cSW1TNB5/In-Collage-20260602-180143099.jpg',
     verified: true,
+    specs: {
+      'Style' : 'Sae',
+      'Flow' : 'Magician Flow',
+      'Info' : 'Harga akun bisa di nego!',
+    }
+  },
+  {
+    id: 4,
+    title: 'Akun Fish It',
+    game: 'Roblox',
+    price: 10000,
+    oldPrice: 40000,
+    rating: 5,
+    seller: 'MARSTORE',
+    image: 'https://i.ibb.co.com/kVLLJH5z/In-Collage-20260602-180256825.jpg',
+    verified: true,
+    specs: {
+      'Rod' : 'Diamond Rod, Element Rod, Ghostfinn Rod, Ares Rod',
+      'Info' : 'Harga akun bisa dei nego!',
+    }
+  },
+  {
+    id: 5,
+    title: 'Akun Roblox GG',
+    game: 'Roblox',
+    price 25000,
+    oldPrice: 50000,
+    rating: 5,
+    seller: 'MARSTORE',
+    image: 'https://i.ibb.co.com/HT1pc68v/In-Collage-20260602-181155124.jpg'
+    varified: true,
+    specs: {
+      'Untuk spesifikasi lengkap silahkan menghubungi MARSTORE',
+    }
   },
 ];
