@@ -54,4 +54,15 @@ export const PRODUCTS: Product[] = [
       'Tambahan' : 'Akun sudah terjamin aman dan bergaransi 100% uang kembali jika terkena hackback!',
     }
   },
+  {
+  id: 3,
+    title: 'Akun Blue Lock!',
+    game: 'Roblox',
+    price: 5000,
+    oldPrice: 20000,
+    rating: 5,
+    seller: 'MARSTORE',
+    image: 'https://i.ibb.co.com/cSW1TNB5/In-Collage-20260602-180143099.jpg',
+    verified: true,
+  },
 ];
