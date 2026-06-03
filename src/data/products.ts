@@ -102,4 +102,21 @@ export const PRODUCTS: Product[] = [
       'Info2' : 'Harga akun bisa di nego',
     }
   },
+  {
+    id: 6,
+    title: 'Akun FreeFire Murah',
+    game: 'Free Fire',
+    price: 85000,
+    oldPrice: 110000,
+    rating: 5,
+    seller: 'MARSTORE',
+    image: 'https://i.ibb.co.com/x8jKrnCK/In-Collage-20260603-204141461.jpg',
+    verified: true,
+    specs: {
+      'Vault' : '100+',
+      'SG2' : 'Lumut, mamba, bunny',
+      'Evogun' : 'AK47 LV3',
+      'Prime' : '3',
+    }
+  },
 ];
