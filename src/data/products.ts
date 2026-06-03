@@ -114,7 +114,7 @@ export const PRODUCTS: Product[] = [
     verified: true,
     specs: {
       'Vault' : '100+',
-      'SG2' : 'Lumut, mamba, bunny',
+      'SG2' : 'Trompet, mamba, bunny',
       'Evogun' : 'AK47 LV3',
       'Prime' : '3',
     }
