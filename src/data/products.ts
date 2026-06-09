@@ -19,7 +19,7 @@ export interface Product {
 
 export const PRODUCTS: Product[] = [
   {
-    id: 1,
+    id: 30,
     title: 'Akun BloxFruits Permanen Dought&Budha!',
     game: 'Roblox',
     price: 100000,
@@ -37,27 +37,7 @@ export const PRODUCTS: Product[] = [
     }
   },
   {
-    id: 2,
-    title: 'Akun Mobile Legend Sultan!!',
-    game: 'Mobile Legends',
-    price: 500000,
-    oldPrice: 1000000,
-    rating: 5,
-    seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/1Gm47KYL/In-Collage-20260505-164403978.jpg',
-    verified: true,
-    specs: {
-      'Kolektor' : 'Terhormat 5',
-      'Skin Bagus' : 'Hayabusa 11.11, Irithel Ducati, Ruby Aspirant, Claude Prime, Karina KOF',
-      'Luckybox' : 'Alice, Hayabusa, Odette, Lunox,',
-      'Collector' : 'Natalia',
-      'Login' : 'Moonton',
-      'Tambahan' : 'Akun sudah terjamin aman dan bergaransi 100% uang kembali jika terkena hackback!',
-      'Info' : 'Harga akun bisa di nego!',
-    }
-  },
-  {
-  id: 3,
+  id: 31,
     title: 'Akun Blue Lock!',
     game: 'Roblox',
     price: 15000,
@@ -73,7 +53,7 @@ export const PRODUCTS: Product[] = [
     }
   },
   {
-    id: 4,
+    id: 32,
     title: 'Akun Volleyball legned',
     game: 'Roblox',
     price: 40000,
@@ -89,7 +69,7 @@ export const PRODUCTS: Product[] = [
     }
   },
   {
-    id: 5,
+    id: 33,
     title: 'Akun Roblox GG',
     game: 'Roblox',
     price : 25000,
@@ -104,7 +84,7 @@ export const PRODUCTS: Product[] = [
     }
   },
   {
-    id: 6,
+    id: 34,
     title: 'Akun FreeFire Murah',
     game: 'Free Fire',
     price: 85000,
