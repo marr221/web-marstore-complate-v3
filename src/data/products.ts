@@ -69,21 +69,6 @@ export const PRODUCTS: Product[] = [
     }
   },
   {
-    id: 33,
-    title: 'Akun Roblox GG',
-    game: 'Roblox',
-    price : 25000,
-    oldPrice: 50000,
-    rating: 5,
-    seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/HT1pc68v/In-Collage-20260602-181155124.jpg',
-    verified: true,
-    specs: {
-      'Info' : 'Untuk spesifikasi lengkap silahkan menghubungi MARSTORE',
-      'Info2' : 'Harga akun bisa di nego',
-    }
-  },
-  {
     id: 34,
     title: 'Akun FreeFire Murah',
     game: 'Free Fire',
