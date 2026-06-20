@@ -69,20 +69,51 @@ export const PRODUCTS: Product[] = [
     }
   },
   {
-    id: 34,
-    title: 'Akun FreeFire Murah',
-    game: 'Free Fire',
-    price: 85000,
-    oldPrice: 110000,
+    id: 35,
+    title: 'Akun BloxFruits Pemula',
+    game: 'Roblox',
+    price: 8000,
+    oldPrice: 15000,
     rating: 5,
     seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/x8jKrnCK/In-Collage-20260603-204141461.jpg',
+    image: 'https://i.ibb.co.com/DHg4zZ5B/In-Collage-20260620-213002665.jpg',
     verified: true,
     specs: {
-      'Vault' : '100+',
-      'SG2' : 'Trompet, mamba, bunny',
-      'Evogun' : 'AK47 LV3',
-      'Prime' : '3',
+      'Level' : '2800',
+      'Info' : 'Bisa di nego',
     }
   },
+  {
+    id: 36,
+    title: 'Akun BloxFruits Pemula',
+    game: 'Roblox',
+    price: 6000,
+    oldPrice: 10000,
+    rating: 5,
+    seller: 'MARSTORE',
+    image: 'https://i.ibb.co.com/1fG7YsT6/In-Collage-20260620-213403814.jpg',
+    verified: true,
+    specs: {
+      'Level' : '2399',
+      'Fruits' : 'Kitsune',
+      'Info' : 'Bisa di nego',
+  },
+},
+{
+  id: 36,
+    title: 'Akun Freefire Polosan',
+    game: 'Free Fire',
+    price: 47000,
+    oldPrice: 50000,
+    rating: 5,
+    seller: 'MARSTORE',
+    image: 'https://i.ibb.co.com/pjxykSzZ/In-Collage-20260620-213729763.jpg',
+    verified: true,
+    specs: {
+      'Sg' : 'Lumut',
+      'Evogun' : 'mp5 LV 5',
+      'Log' : 'Bind all aman',
+      'Info' : 'Bisa di nego',
+}
+}
 ];
