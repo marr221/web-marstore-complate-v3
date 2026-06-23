@@ -99,21 +99,4 @@ export const PRODUCTS: Product[] = [
       'Info' : 'Bisa di nego',
   },
 },
-{
-  id: 37,
-    title: 'Akun Freefire Polosan',
-    game: 'Free Fire',
-    price: 47000,
-    oldPrice: 50000,
-    rating: 5,
-    seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/pjxykSzZ/In-Collage-20260620-213729763.jpg',
-    verified: true,
-    specs: {
-      'Sg' : 'Lumut',
-      'Evogun' : 'mp5 LV 5',
-      'Log' : 'Bind all aman',
-      'Info' : 'Bisa di nego',
-}
-}
 ];
