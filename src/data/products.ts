@@ -53,22 +53,6 @@ export const PRODUCTS: Product[] = [
     }
   },
   {
-    id: 32,
-    title: 'Akun Volleyball legned',
-    game: 'Roblox',
-    price: 30000,
-    oldPrice: 40000,
-    rating: 5,
-    seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/Xr142cK7/IMG-20260606-WA0166.jpg',
-    verified: true,
-    specs: {
-      'Style' : 'Timeskip hinto, kazana, akari, okazu, kyoshin',
-      'Abilities' : 'Shield breaker, magnetic pull',
-      'Info' : 'Harga akun bisa di nego!',
-    }
-  },
-  {
     id: 35,
     title: 'Akun BloxFruits Pemula',
     game: 'Roblox',
