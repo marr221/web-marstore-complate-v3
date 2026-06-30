@@ -66,5 +66,16 @@ export const PRODUCTS: Product[] = [
       'Fruits' : 'Kitsune',
       'Info' : 'Bisa di nego',
   },
-},
+  },
+  {
+    id: 38,
+    title: 'Akun Mobile Legends Receh',
+    game: 'Mobile Legends',
+    price: 25000,
+    oldPrice: 30000,
+    rating: 5,
+    seller: 'MARSTORE',
+    image: 'https://i.ibb.co.com/5XQpkZHw/In-Collage-20260630-154817192.jpg',
+    verified: true,
+  },
 ];
