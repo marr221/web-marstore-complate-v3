@@ -37,22 +37,6 @@ export const PRODUCTS: Product[] = [
     }
   },
   {
-  id: 31,
-    title: 'Akun Blue Lock!',
-    game: 'Roblox',
-    price: 5000,
-    oldPrice: 15000,
-    rating: 5,
-    seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/cSW1TNB5/In-Collage-20260602-180143099.jpg',
-    verified: true,
-    specs: {
-      'Style' : 'Sae',
-      'Flow' : 'Magician Flow',
-      'Info' : 'Harga akun bisa di nego!',
-    }
-  },
-  {
     id: 35,
     title: 'Akun BloxFruits Pemula',
     game: 'Roblox',
