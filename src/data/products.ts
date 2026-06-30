@@ -71,7 +71,7 @@ export const PRODUCTS: Product[] = [
     id: 38,
     title: 'Akun Mobile Legends Receh',
     game: 'Mobile Legends',
-    price: 25000,
+    price: 20000,
     oldPrice: 30000,
     rating: 5,
     seller: 'MARSTORE',
