@@ -37,21 +37,6 @@ export const PRODUCTS: Product[] = [
     }
   },
   {
-    id: 35,
-    title: 'Akun BloxFruits Pemula',
-    game: 'Roblox',
-    price: 8000,
-    oldPrice: 15000,
-    rating: 5,
-    seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/DHg4zZ5B/In-Collage-20260620-213002665.jpg',
-    verified: true,
-    specs: {
-      'Level' : '2800',
-      'Info' : 'Bisa di nego',
-    }
-  },
-  {
     id: 36,
     title: 'Akun BloxFruits Pemula',
     game: 'Roblox',
