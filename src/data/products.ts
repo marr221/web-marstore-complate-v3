@@ -36,20 +36,4 @@ export const PRODUCTS: Product[] = [
       'Info' : 'Harga akun bisa di nego',
     }
   },
-  {
-    id: 36,
-    title: 'Akun BloxFruits Pemula',
-    game: 'Roblox',
-    price: 7000,
-    oldPrice: 10000,
-    rating: 5,
-    seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/1fG7YsT6/In-Collage-20260620-213403814.jpg',
-    verified: true,
-    specs: {
-      'Level' : '2399',
-      'Fruits' : 'Kitsune',
-      'Info' : 'Bisa di nego',
-  },
-  },
 ];
