@@ -18,22 +18,4 @@ export interface Product {
 }
 
 export const PRODUCTS: Product[] = [
-  {
-    id: 30,
-    title: 'Akun BloxFruits Permanen Dought&Budha!',
-    game: 'Roblox',
-    price: 100000,
-    oldPrice: 150000,
-    rating: 5,
-    seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/1fN759CH/In-Collage-20260606-111845885.jpg',
-    verified: true,
-    specs: {
-      'Fruits Permanen' : 'Dought, buddha, rocket',
-      'Gamepass' : 'Darkblade, fast boat',
-      'Accessory' : 'Oni helmet, divine cloak, celestial helmet',
-      'Avatar' : 'Be-robux parah+banyak dan bagus bagus',
-      'Info' : 'Harga akun bisa di nego',
-    }
-  },
 ];
