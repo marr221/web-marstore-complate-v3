@@ -18,4 +18,18 @@ export interface Product {
 }
 
 export const PRODUCTS: Product[] = [
+  {
+    id: 1,
+    title: 'TES',
+    game: '',
+    price: 1,
+    oldPrice: 2,
+    rating: 5,
+    seller: 'MARSTORE',
+    image: 'https://i.ibb.co.com/0Vdvx4NH/1773448742226.png',
+    verified: true,
+    specs: {
+      'info' : ' jual akun langsung ke wa aja'
+    }
+  },
 ];
