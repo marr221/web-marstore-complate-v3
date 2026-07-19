@@ -26,7 +26,7 @@ export const PRODUCTS: Product[] = [
     oldPrice: 2,
     rating: 5,
     seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/0Vdvx4NH/1773448742226.png',
+    image: 'https://i.ibb.co.com/ymGFh9gf/In-Collage-20260719-223644467.jpg',
     verified: true,
     specs: {
       'info' : ' jual akun langsung ke wa aja'
