@@ -50,4 +50,19 @@ export const PRODUCTS: Product[] = [
       'Info Harga' : 'harga bisa dinego'
     }
   },
+  {
+    id: 41,
+    title: 'Stok Akun Freefire Receh',
+    game: 'Free Fire',
+    price: 35000,
+    oldPrice: 50000,
+    rating: 5,
+    seller: 'MARSTORE',
+    image: 'https://i.ibb.co/Xk7q5mqF/IMG-20260905-WA0261.jpg',
+    verified: true,
+    specs: {
+      'SG2' : 'Lumut',
+      'Evogun' : 'MP5'
+    }
+  },
 ];
