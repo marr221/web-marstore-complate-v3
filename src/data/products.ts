@@ -58,7 +58,7 @@ export const PRODUCTS: Product[] = [
     oldPrice: 200000,
     rating: 5,
     seller: 'MARSTORE',
-    image: 'https://imgur.com/a/r8tIXIZ',
+    image: 'https://i.imgur.com/g8W7FUH.jpeg',
     verified: true,
     specs: {
       'SG2' : 'Trompet',
