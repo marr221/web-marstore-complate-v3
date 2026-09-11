@@ -52,7 +52,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 42,
-    title: 'Stok Akun Freefire Spek Old',
+    title: 'Stok Akun Freefire Spek GG',
     game: 'Free Fire',
     price: 190000,
     oldPrice: 200000,
