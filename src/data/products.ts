@@ -51,18 +51,23 @@ export const PRODUCTS: Product[] = [
     }
   },
   {
-    id: 41,
-    title: 'Stok Akun Freefire Receh',
+    id: 42,
+    title: 'Stok Akun Freefire Spek Old',
     game: 'Free Fire',
-    price: 35000,
-    oldPrice: 50000,
+    price: 190000,
+    oldPrice: 200000,
     rating: 5,
     seller: 'MARSTORE',
-    image: 'https://i.imgur.com/PaOvpvx.jpeg',
+    image: 'https://imgur.com/a/r8tIXIZ',
     verified: true,
     specs: {
-      'SG2' : 'Lumut',
-      'Evogun' : 'MP5'
+      'SG2' : 'Trompet',
+      'Evogun' : 'Scar lv6, mp40 lv4',
+      'Vault' : '470+',
+      'Baju bagus' : 'cluber pink, baju sekolah DLL',
+      'celana bagus' : 'angel merah, angel putih DLL',
+      'tinju' : 'tinju JJK',
+      'inpo' : 'harga bisa di nego'
     }
-  },
+ },
 ];
