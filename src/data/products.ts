@@ -35,7 +35,7 @@ export const PRODUCTS: Product[] = [
   {
     id: 40,
     title: 'Stok Akun ML Kolektor Terhormat',
-    game: 'Mobuile Legends',
+    game: 'Mobile Legends',
     price: 500000,
     oldPrice: 650000,
     rating: 5,
