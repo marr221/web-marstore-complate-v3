@@ -85,8 +85,6 @@ export const GAME_DETAILS: Record<string, any> = {
       { id: 14, name: '875 Diamonds', price: 'Rp 223.000' },
       { id: 15, name: '965 Diamonds', price: 'Rp 248.000' },
       { id: 16, name: '1050 Diamonds', price: 'Rp 270.000' },
-      { id: 17, name: 'Weekly Diamond Pass', price: 'Rp 28.500' },
-      { id: 18, name: 'Twilight Pass', price: 'Rp 145.000' },
     ],
     fields: [
       { id: 'userId', label: 'User ID', placeholder: 'Contoh: 12345678' },
