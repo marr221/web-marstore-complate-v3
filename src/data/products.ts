@@ -50,26 +50,6 @@ export const PRODUCTS: Product[] = [
       'Info Harga' : 'harga bisa dinego'
     }
   },
-  {
-    id: 42,
-    title: 'Stok Akun Freefire Spek GG',
-    game: 'Free Fire',
-    price: 170000,
-    oldPrice: 200000,
-    rating: 5,
-    seller: 'MARSTORE',
-    image: 'https://i.imgur.com/g8W7FUH.jpeg',
-    verified: true,
-    specs: {
-      'SG2' : 'Trompet',
-      'Evogun' : 'Scar lv6, mp40 lv4',
-      'Vault' : '470+',
-      'Baju bagus' : 'cluber pink, baju sekolah DLL',
-      'celana bagus' : 'angel merah, angel putih DLL',
-      'tinju' : 'tinju JJK',
-      'inpo' : 'harga bisa di nego'
-    }
- },
  {
   id: 43,
   title: 'Stok Akun ML Murmer',
