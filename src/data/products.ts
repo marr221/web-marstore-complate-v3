@@ -32,4 +32,21 @@ export const PRODUCTS: Product[] = [
       'info' : ' jual akun langsung ke wa aja',
     },
   },
+{
+  id: 45,
+  title: 'Stok FF max 1 murmer',
+  game: 'Free Fire',
+  price: 90000,
+  oldPrice: 110000,
+  rating: 5,
+  seller: 'MARSTORE',
+  image: 'https://i.ibb.co.com/Q75KchSh/In-Collage-20261017-140408175.jpg',
+  verified: true,
+  specs: {
+    'Vault' : '100+',
+    'evogun' : 'mp5 lv 7',
+    'sg2' : 'lumut',
+    'info' : 'info lengkap atau nego harga silahkan chat admin',
+  },
+}
 ];
