@@ -35,7 +35,7 @@ export const PRODUCTS: Product[] = [
   {
    id: 45,
     title: 'Stok FF max 1 murmer',
-    ga me: 'Free Fire',
+    game: 'Free Fire',
     price: 90000,
     oldPrice: 110000,
     rating: 5,
