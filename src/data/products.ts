@@ -32,21 +32,4 @@ export const PRODUCTS: Product[] = [
       'info' : ' jual akun langsung ke wa aja',
     },
   },
- {
-  id: 43,
-  title: 'Stok Akun ML Murmer',
-  game: 'Mobile Legend',
-  price: 115000,
-  oldPrice: 140000,
-  rating: 5,
-  seller: 'MARSTORE',
-  image: 'https://i.imgur.com/TMs4NRv.jpeg',
-  verified: true,
-  specs: {
-    'Kolektor' : 'Kolektor Ahli 5',
-    'Skin Bagus' : 'Vexana Zenith',
-    'Skin epic' : 'Banyak',
-    'info' : 'harga akun bisa dinego'
-  }
- },
 ];
