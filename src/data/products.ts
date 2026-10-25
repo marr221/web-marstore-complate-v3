@@ -32,21 +32,4 @@ export const PRODUCTS: Product[] = [
       'info' : ' jual akun langsung ke wa aja',
     },
   },
-  {
-    id: 44,
-    title: 'Stok FF Trompet Clubber',
-    game: 'Free Fire',
-    price: 150000,
-    oldPrice: 180000,
-    rating: 5,
-    seller: 'MARSTORE',
-    image: 'https://i.ibb.co.com/RpgdK3CT/In-Collage-20260909-211214074.jpg',
-    verified: true,
-    specs: {
-      'Vault' : '450+ Clubber pink',
-      'sg2' : 'trompet',
-      'evogun' : 'scar lv6 & mp40 cobra',
-      'info' : 'info lebih lengkap atau nego harga silahkan chat admin',
-    },
-  },
 ];
