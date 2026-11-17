@@ -32,4 +32,23 @@ export const PRODUCTS: Product[] = [
       'info' : ' jual akun langsung ke wa aja',
     },
   },
+  {
+    id: 47,
+    title: "Stok FF gagah murmer",
+    game: "Free Fire",
+    price: 150000,
+    oldPrice: 200000,
+    rating: 5,
+    seller: 'MARSTORE12',
+    image: 'https://i.ibb.co/zLD5B2C/stok047.jpg',
+    verified: true,
+    specs: {
+      'Vault' : '500+',
+      'Evo' : 'AK47 lv 6 otw 7',
+      'Evo2' : 'Tinju lv 5',
+      'Celana' : 'angel merah cowok dan angel ceweknya banyak',
+      'sg2' : 'trompet', 
+      'info' : 'harga bisa nego',
+    }
+  },
 ];
