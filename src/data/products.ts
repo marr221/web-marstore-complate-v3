@@ -51,4 +51,15 @@ export const PRODUCTS: Product[] = [
       'info' : 'harga bisa nego',
     }
   },
+  {
+    id: 46,
+    title: "Stok ML Polosan Karina KOF",
+    game: "Mobile Legends",
+    price: 40000,
+    oldPrice: 60000,
+    rating: 5,
+    seller: 'MARSTORE',
+    image: 'https://i.ibb.co/CKHhsXWP/stok-046.jpg',
+    verified: true,
+  },
 ];
